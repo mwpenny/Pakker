@@ -1,0 +1,3 @@
+-Drag/drop onto view to add to archive (or load archive)
+-Create pak from selected files
+-Command line?
